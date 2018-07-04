@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Angelina Saliling on 4/7/18.
-//  Copyright © 2018 Angelina Saliling. All rights reserved.
-//
+
 
 import UIKit
 
